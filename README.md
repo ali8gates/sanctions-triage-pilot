@@ -42,3 +42,7 @@ Each `.excalidraw` file opens directly in [Excalidraw](https://excalidraw.com), 
 ## A note on scope
 
 This repo covers the front end alert review step, the highest volume and most manual part of the workflow. Downstream investigation of a true match, actual SAR filing, and the rest of the financial crime program are out of scope here, and any figures I mention (the true match counts, the false positive rates) describe the review step, not the outcome of an investigation.
+
+## Related work: a different queue, the same pattern
+
+[`related-work/it-ticket-triage-agent/`](related-work/it-ticket-triage-agent/) is a separate project, an IT ticket triage agent built for a different team and a different queue entirely (password resets, software installs, access requests). It is not part of the sanctions pilot and uses none of the same code. It is here because it is built on the same underlying pattern: a policy layer that returns a decision and a written reason, and an orchestrator that turns that into an auditable outcome with a human review queue for anything the policy is not confident about. Worth a look if you want to see the same approach applied somewhere else.

@@ -1,0 +1,8 @@
+[project]
+name = "it-ticket-triage-agent"
+version = "0.1.0"
+description = "Illustrative IT ticket triage agent, synthetic tickets only."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
