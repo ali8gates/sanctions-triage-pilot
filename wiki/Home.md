@@ -11,6 +11,7 @@ Pages:
 - [Problem](Problem.md)
 - [Stakeholders](Stakeholders.md)
 - [How I Ran This](How-I-Ran-This.md)
+- [Selling and Deploying This](Selling-and-Deploying.md)
 - [Buy vs Build](Buy-vs-Build.md)
 - [Pilot and Outcomes](Pilot-and-Outcomes.md)
 

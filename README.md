@@ -11,6 +11,7 @@ Everything in this repo uses synthetic, invented data. Real customer records, re
 - [The problem](wiki/Problem.md), what the alert queue actually looked like before this pilot
 - [Stakeholders](wiki/Stakeholders.md), who was in the room and why
 - [How I ran this](wiki/How-I-Ran-This.md), the discovery to readout sequence and who owned each part of it
+- [Selling and deploying this](wiki/Selling-and-Deploying.md), evaluating the vendor pitches, selling the build-it-myself call internally, and how it actually rolled out
 - [Buy vs build](wiki/Buy-vs-Build.md), UiPath, WorkFusion, the Accenture program, and why I built this piece myself
 - [The pilot and the outcome](wiki/Pilot-and-Outcomes.md), what shipped in 90 days and what it saved
 - [The code](src/sanctions_triage/), a runnable version of the triage logic, synthetic data only
