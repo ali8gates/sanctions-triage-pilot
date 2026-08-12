@@ -4,6 +4,8 @@ A fun way to walk through a real pilot: I took the most repetitive slice of Varo
 
 This sits inside the same broader agentic AI program Accenture proposed for Varo across fraud, disputes, and financial crime. My piece was the sanctions and PEP alert review slice, and I owned it end to end, from the discovery notes to the code that runs today.
 
+End to end is the operative part. I was the same person mapping the problem with the analysts, scoping what to build, writing the logic, and standing in front of leadership afterward explaining what it changed. Nothing here got handed off between a strategy phase and a delivery phase run by someone else. That is the thread through everything below: understanding what the team actually needed, building something that held up against real cases, and making sure it kept working once it was live and audited.
+
 Everything in this repo uses synthetic, invented data. Real customer records, real watchlist hits, and real stakeholder names never appear here. Where I use exact figures (alert volumes, false positive rates, staffing, vendor names), those come from the discovery notes I wrote up during the pilot, and they are the real numbers behind why this was worth building.
 
 ## What's here
