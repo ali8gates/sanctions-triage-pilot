@@ -16,6 +16,10 @@ I did not start from a spec. I started by sitting with the discovery notes from 
 
 Because I owned this piece as an individual contributor, decisions moved fast. I did not need a steering committee to change a threshold or add a rationale field, I tested it against real case patterns with the team that would use it and adjusted the same day.
 
+## The vendor was also in the room
+
+Eleven of the twelve people working this queue day to day were staffed through Accenture, with one Varo full time employee. At the same time, Accenture was proposing the broader agentic program that this pilot's readout ended up feeding into. That is not a conflict I raise to cast doubt on anyone's work, the offshore team validated this logic against real cases as carefully as anyone else involved, it is just the actual shape of the room: building this piece myself meant automating work inside a queue staffed by the same vendor pitching the larger program for the rest of it. Being clear eyed about that dynamic, instead of pretending the only stakeholders were internal, was part of scoping this honestly.
+
 ## Where this connects to the bigger picture
 
 This sanctions and PEP slice sits inside the same broader agentic AI program proposed for Varo across fraud (YAMS and its related queues), disputes (DBC and its related queues), and financial crime more broadly, 13 workflows in total, targeting 35 to 50 percent efficiency gains delivered in phases over 3 to 5 months. Financial crime operations leadership sponsored that broader conversation. My pilot was the concrete, already-working piece of it I could point to.

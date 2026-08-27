@@ -27,7 +27,7 @@ Run it with `python -m sanctions_triage.cli` from the `src` directory. Every ale
 ## The 90 day outcome
 
 - Deployed in 90 days, built and owned by one individual contributor with Claude Code, tested against real L1 and L2 case patterns
-- More than $1,000,000 in cost avoided over 3 years, compared with licensing UiPath or WorkFusion for this workflow
+- More than $2,000,000 in cost avoided over 2 years, compared with licensing UiPath or WorkFusion for this workflow
 - Runs today for under $10,000 a year to maintain internally, no license renewal
 - Every auto closed alert carries a written rationale, so nothing closes silently and the audit trail holds up
 

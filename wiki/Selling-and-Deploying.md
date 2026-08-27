@@ -12,7 +12,7 @@ Part of scoping this meant sitting through what UiPath and WorkFusion were actua
 
 ## Selling the build-it-myself option internally
 
-Before any code got written, I had to make the case to financial crime operations leadership that skipping the vendor path was the right call, not just the cheaper one. That pitch rested on three things: a number (more than a million dollars avoided over three years against either vendor), a timeline (live within the quarter, not a multi quarter vendor buildout), and a guardrail (auto close only where the evidence was unambiguous, everything else stays with L1 exactly as before). Without all three, it would have been a much harder sell, and probably the wrong call.
+Before any code got written, I had to make the case to financial crime operations leadership that skipping the vendor path was the right call, not just the cheaper one. That pitch rested on three things: a number (more than two million dollars avoided over two years against either vendor), a timeline (live within the quarter, not a multi quarter vendor buildout), and a guardrail (auto close only where the evidence was unambiguous, everything else stays with L1 exactly as before). Without all three, it would have been a much harder sell, and probably the wrong call.
 
 ## Deployment strategy
 
